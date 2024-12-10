@@ -3,7 +3,6 @@ LLM Raptor Neo4J Knowledge Builder
 
 Possibility to bring knowledge into the LLM directly from Knowledge Graphs like Neo4j
 
-
 ## Ref:
    1. https://github.com/neo4j/NaLLM
    2. https://medium.com/neo4j/construct-knowledge-graphs-from-unstructured-text-877be33300a2
@@ -15,3 +14,14 @@ Possibility to bring knowledge into the LLM directly from Knowledge Graphs like 
 
 ## New Information TBD:
    Stay tuned.
+
+## Test Pg-Vector RS as further improvement for pg vector. 
+   Github Link: https://github.com/tensorchord/pgvecto.rs
+
+   More Dimensions being supported for pg vector.rs 16 000
+
+
+## pgvector.rs implementation
+    https://github.com/tensorchord/pgvecto.rs
+
+## TODO: Build the frontend and backend 
