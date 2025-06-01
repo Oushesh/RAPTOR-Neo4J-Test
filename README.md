@@ -25,3 +25,12 @@ Possibility to bring knowledge into the LLM directly from Knowledge Graphs like 
     https://github.com/tensorchord/pgvecto.rs
 
 ## TODO: Build the frontend and backend 
+
+
+## How to add memO agent? 
+   * https://github.com/mem0ai/mem0/tree/main/evaluation
+
+
+mem0: https://github.com/mem0ai/mem0/tree/main/evaluation
+
+## TODO: need to add this here.
